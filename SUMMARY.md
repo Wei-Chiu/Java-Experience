@@ -12,4 +12,5 @@
 * [第五章](Chapter5/README.md)
 * [第六章](Chapter6/README.md)
     * [第六章第一节](Chapter6/hello.md)
+* [第七章](Chapter7/README.md)
 
