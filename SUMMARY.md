@@ -1,22 +1,21 @@
 # Summary
 
 * [Introduction](README.md)
-* [第一章]
-    * [第1节：衣](Chapter1/衣.md)
-    * [第2节：食](Chapter1/食.md)
-    * [第3节：住](Chapter1/住.md)
-    * [第4节：行](Chapter1/行.md)
+* [SSM完整环境搭建过程](SSM-Integration/ReadMe.md)
+    * [pom 中每个依赖到底提供了哪些类](SSM-Integration/Pom_Detail.md)
+    * [pom 中配置 maven 资源过滤设置](SSM-Integration/Resource_Filter.md)
+    * [mybatis-config.xml](SSM-Integration/mybatis-config.md)
+    * [applicationContext.xml](SSM-Integration/applicationContext.md)
+    * [数据库文件 database.properties](SSM-Integration/dataBaseProperties.md)
+    * [实体类 Books](SSM-Integration/pojoBooks.md)
+    * [mapper 接口](SSM-Integration/daoBookMapper.md)
+    * [mapper 对应的 xml](SSM-Integration/daoBookMapperXML.md)
+    * [service 接口](SSM-Integration/serviceBookService.md)
+    * [service 实现类](SSM-Integration/serviceBookServiceImpl.md)
+    * [Spring 整合 Mybatis (spring-dao.xml)](SSM-Integration/springDaoXML.md)
+    * [Mybatis 配置文件](SSM-Integration/mybatisConfigXML.md)
+    * [配置 Spring 整合 Service 层](SSM-Integration/springServiceXML.md)
+    * [web.xml](SSM-Integration/webXML.md)
+* [其他](Others.md)
+    * [IDEA Artifact 解释https://blog.csdn.net/weixin_30436891/article/details/95922572](Others/artifacts.md)
 
-* [第二章](Chapter2/README.md)
-
-* [第三章](Chapter3/README.md)
-
-* [第四章](Chapter4/README.md)
-
-* [第五章](Chapter5/README.md)
-
-* [第六章](Chapter6/README.md)
-    
-    * [第六章第一节](Chapter6/hello.md)
-    
-    1. [test](Chapter?/)
