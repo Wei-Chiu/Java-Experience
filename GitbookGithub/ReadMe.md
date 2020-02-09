@@ -1,7 +1,6 @@
 # Gitbook + Github
 
-- 如何建立本地仓库
-    
+- 如何建立本地仓库  
   ![img1](https://github.com/Wei-Chiu/Java-Experience/blob/master/Images/img1.png)
 
 - gitbook 指令
