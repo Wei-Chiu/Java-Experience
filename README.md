@@ -4,6 +4,10 @@
 
 ​	java 部分的杂七杂八
 
+设计模式：
+
+- [单例模式](DesignPatten/singleton.md)
+
 [SSM 整合](SSM-Integration/ReadMe.md)：
 
 ​	SSM 框架的简答整合过程
