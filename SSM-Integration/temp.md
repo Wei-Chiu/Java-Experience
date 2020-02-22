@@ -7,3 +7,7 @@ Spring 特性 AOP，动态代理继承的类 InvocationHandler，invocationHandl
 <properties> 配置 dataSource 中的 root password 等。
 
 annotation driven 和 default servlet handler 作用，为什么可以不配置
+
+``` 
+MapperScannerConfigurer 为什么不用注入 Factory
+```
