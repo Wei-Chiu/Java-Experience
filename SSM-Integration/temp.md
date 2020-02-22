@@ -17,3 +17,5 @@ MapperScannerConfigurer 为什么不用注入 Factory
 约束少了 "http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
 
 web.xml 中，applicationContext 和 springMVC 分别加载
+
+为什么在 springMVC 里 只扫描 @Controller 注解，不全部扫描
