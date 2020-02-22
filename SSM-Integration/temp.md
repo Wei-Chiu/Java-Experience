@@ -15,3 +15,5 @@ MapperScannerConfigurer 为什么不用注入 Factory
 视图定位里的 viewClass 和
 
 约束少了 "http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+
+web.xml 中，applicationContext 和 springMVC 分别加载
