@@ -25,3 +25,5 @@ HttpSession
 ```java
 session.getServletContext().getRealPath("img/category");
 ```
+
+狂神说 实现分页为什么要用一个 page
