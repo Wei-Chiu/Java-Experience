@@ -19,3 +19,5 @@ MapperScannerConfigurer 为什么不用注入 Factory
 web.xml 中，applicationContext 和 springMVC 分别加载
 
 为什么在 springMVC 里 只扫描 @Controller 注解，不全部扫描
+
+HttpSession
