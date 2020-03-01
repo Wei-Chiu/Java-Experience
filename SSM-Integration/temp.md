@@ -29,3 +29,5 @@ session.getServletContext().getRealPath("img/category");
 狂神说 实现分页为什么要用一个 page，学习了前端后看看 tmall 分页是怎么实现的，看看 Page 类的  param 属性是干什么的
 
 分页用的插件
+
+uploadedFile 怎么上传图片的
