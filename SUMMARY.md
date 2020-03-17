@@ -7,6 +7,7 @@
     * [JVM相关](Java/JVM.md)
     * [内置函数使用](Java/function.md)
     * [数组和list相互转换](Java/ArrayAndList.md)
+    * [GET和POST区别](Java/GET&POST.md)
 * 设计模式
     * [单例模式](DesignPatten/singleton.md)
 * [SSM完整环境搭建过程](SSM-Integration/ReadMe.md)
