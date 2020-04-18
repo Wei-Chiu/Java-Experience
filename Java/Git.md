@@ -77,8 +77,13 @@ http地址为：https://github.com/michaelliao/gitskills.git
 ### BUG 分支
 
 正在 dev 分支上工作，这时候需要修改bug，直接不提交无法切换或生成新的分支，需要 `git stash` 暂存当前分支。
+
 在 master 新建分支，修复 bug，然后合并到 master 分支上来。提交。然后切回 dev 分支。
+
 使用 `git stash list` 查看暂存工作区，使用 `git stash pop` 或者 `git stash apply [id] +  git stash drop [id]` 来恢复。
+
+你可以多次stash，恢复的时候，先用`git stash list`查看，然后恢复指定的stash，用命令：```$ git stash apply stash@{0}```
+
 p.s.这时候如果想，把 bug 修改应用到当前 dev 分支，使用 `git cherry-pick [bug branch id]` ，只合并 bug 分支进来。（此处如果有冲入，就需要解决冲突，再 commit）
 
 ### 不合并强行删除
